@@ -1,0 +1,6 @@
+book_filename: "TEM"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Part "
+output_dir: "docs"

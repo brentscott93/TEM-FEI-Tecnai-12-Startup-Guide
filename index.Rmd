@@ -1,0 +1,30 @@
+--- 
+title: "TEM FEI Tecnai 12 - Startup Guide"
+author: "Brent Scott"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a brief protocol for the intial setup and use of the FEI Tecnai 12 Transmission Electron Microscope."
+---
+
+# (a brief) Introduction
+
+This procotol was adapted from the notes I took during TEM training (Summer 2019). This is **not** all encompassing, but rather the bare minimum requirements I needed to initially start the T12, load the sample, find focus (or close to it), and take images.
+
+
+```{r echo=FALSE}
+knitr::include_graphics(c("images/tecnai_t12.png", "images/fei-tecnai-t12.jpg"))
+```
+
+Before you start, make sure to **1)** reserve the T12 through UMass FOM ahead of time, and **2)** sign into the T12 on UMass FOM before arriving at the Microscopy Center to initilize startup of the T12 controls.
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

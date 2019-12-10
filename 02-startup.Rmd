@@ -1,0 +1,33 @@
+# Startup
+
+During training (and being new to EM), I was instructed to first find and center the beam before loading any samples. 
+
+Take note of the IGP1. This is log(vacuum) and is never better than 6. 
+
+1) Login to computer (right monitor)
+
+2) Click "Col. Valves Closed"
+  
+   _If left monitor is black. Login to T12 through UMass FOM to turn it on._
+
+3) High Tension 120V (energy of the electrons)
+
+4) Turn Filament On (this takes ~5min)
+
+5) Find Beam
+     - Use the intensity knob (L-R) to find the beam (if the intensity knobs start to beep go        the other way). 
+      - Left = under focus
+      - Right = Over focus
+     - You can also zoom out with focus if still having trouble.
+     
+  
+  
+6) Center beam and make sure beam remains center across a range of spot sizes. 
+    - To move beam use "Gun Shift" and "Beam Shift". Use "Gun Shift" for lower spot sizes (i.e. 3, which is actully a bigger spot) and "Beam Shift" for higher spot sizes (i.e. 7). There is also a "Gun Tilt" which tilts the gun to put the most electrons in the column. I didn't really use this during  my training, only the "Gun Shift" and "Beam "Shift".
+    - You can use the multifunction x, y knobs for these
+   
+   
+7) Make the screen all beam
+
+You are now set to load your sample. 
+
